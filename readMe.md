@@ -3,8 +3,6 @@
 ## What is it ?
 Example of python script to retrieve Dell Warranty information for a list of servic tags using the Dell API as follow :
 
-<img width="1035" alt="image" src="https://user-images.githubusercontent.com/28600326/225572877-8f3d26bc-fc8b-4a5f-b449-207677317f8e.png">
-
 ## Prerequisites
 - Dell Tech API access
 - Dell API Client ID
